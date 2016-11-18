@@ -4,4 +4,6 @@
 2. **爬取结果入库（mongo数据库）** <br> 
 3. **数据的整理，清洗** <br> 
 4. **数据处理（图形化工具HighCharts）** <br> 
- 
+
+   部分数据测试结果 <br>
+ ![image](https://github.com/ghostloda/dataProcessing/blob/master/chart.png)
